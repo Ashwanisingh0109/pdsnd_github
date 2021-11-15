@@ -76,7 +76,7 @@ def get_filters():
                 month = input('January, February, March, April, May, June- ').lower()
                 print()
                 if month not in MONTH_DATA:
-                    print('Sorry I did not understand that input. Could you try again?')
+                    print('Sorry I did not understand that input. Could you try again with correct input?')
                     continue
                 month = MONTH_DATA[month]
                 day='all'
@@ -284,7 +284,7 @@ def display_data(df):
             elif choice=='no' or choice=='n' or choice=='nope':
                 break
             else:
-                print('You did not enter a valid choice.')
+                print('You did not enter a valid choice.Please try again')
                 return
 
     
