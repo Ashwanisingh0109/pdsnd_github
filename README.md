@@ -7,11 +7,11 @@
 Bikeshare.py
 
 ### Description
-analyze the data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
+analyze the data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. checking distance time etc.
 
 ### Files used
 added into .gitignore. files are chicago.csv, new_york_city.csv and washington.csv
 
 ### Credits
-Credit goes to udacity course for the project.
+Credit goes to udacity course for the project and you tube videos.
 
